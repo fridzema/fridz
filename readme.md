@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://fridzema.com"><img src="https://static.fridzema.com/img/fridzel.svg" alt="Fridzel logo" title="Fridzel" width="150" height="150" /></a>
 </p>
 
@@ -59,3 +59,4 @@ Feel free to make an issue about whatever you want!
 
 ## Extra
 [Photo samples](https://static.fridzema.com/downloads/fridzel-samples.zip)
+ -->
