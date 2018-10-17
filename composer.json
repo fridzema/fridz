@@ -16,7 +16,6 @@
         "spatie/laravel-responsecache": "^3.2"
     },
     "require-dev": {
-        "arubacao/php-cs-fixer-config": "^0.0.2",
         "fzaninotto/faker": "~1.4",
         "laravel/dusk": "^1.0",
         "mockery/mockery": "0.9.*",
